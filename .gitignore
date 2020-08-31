@@ -8,6 +8,7 @@ package-lock.json
 /node_modules
 app/css/
 app/js/libs.min.js
+app/fonts
 
 # IDEs and editors
 /.idea
